@@ -9,6 +9,6 @@ public class Calc {
         System.out.println("value : " + Math.log10(f));
         System.out.println("value : " + Math.sqrt(d));
         System.out.println("value : " + Math.sin(e));
-        System.out.println("value : " + Math.cos(e));
+        System.out.println("value : " + Math.cos(e)
     }
 }
